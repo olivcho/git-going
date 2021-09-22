@@ -1,6 +1,7 @@
-# Get Going with Git!
+rfkjhfityfoiuyfoutdoy
+# Get Going with Git! And create merge conflicts!
 
-This is a quick course to start using version control with git. 
+This is a quick course to start using version control with git.
 
 ### _What is version control?_
 
@@ -57,3 +58,4 @@ We'll talk about the difference between `git merge` and `git rebase`, which will
 Pick a directory that's already on your computer, and version control it!
 
 I like using the [Github desktop app](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop) for this, but you can also use `git init` in the command line.
+=======
