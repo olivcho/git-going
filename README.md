@@ -2,13 +2,18 @@
 
 This is a quick course to start using version control with git. 
 
-### Getting Started
+### _What is version control?_
+
+Version control, also known as a revision control, is a software program that allows us to track distributed changes to information/code over time. Git is an example of a version control implementation. Changes are "distributed" when they are coming from many different sources. For example, if a team of developers is all making changes to the same code, or if you have different branch of evolution that have resulted in changes to a single original genome. We can use version control to "revert" or rewind back to an older version of the information/code, "merge" an updated version into our copy, "push" our changes to a "master" copy, and do much more. Let's get set up to travel through time and alternative versions of reality via version control! 🚀
+
+### 1. Getting Started
 
 First, create an account on github! This site! ^ :octocat:
+
 _PSA: You don't need to use your school username_
 
 
-_**Open up your terminal! 🤠**_
+_**Now open up your terminal! 🤠**_
 
 1. Follow these instructions to check if you have `git` installed on your machine and install it if you don't: https://github.com/git-guides/install-git
 2. Use `cd` to navigate to the directory that you want to store your code in. (I like to have a `~/Development` folder, for example)
@@ -16,11 +21,12 @@ _**Open up your terminal! 🤠**_
 4. Use `cd git-going` to navigate into the directory that now contains the repository
 
 You're now ready to make new versions of this code!
-_Or lack there of... It's so empty in here that I think I saw a tumbleweed blow by 🌪️🌵_
 
-### 🛑 Group demo: Basic git commands
+(_Or lack there of... It's so empty in here that I think I saw a tumbleweed blow by 🌪️🌵_)
 
-### Contributing
+_**Hold up 🛑: Group demo: Basic git commands**_
+
+### 2. Contributing
 
 Review the basic git commands on the cheatsheet.
 There are many more resources on the internet that go into deeper explanations of each command, but here are a few solid ones:
@@ -31,7 +37,7 @@ There are many more resources on the internet that go into deeper explanations o
 2. Commit your file: `git add <your-file>` and `git commit -m "replace this with a message that describes your file!"`
 3. Push your changes to the remote repository (this one here, on the internet!): `git push`
 
-### Collaborating
+### 3. Collaborating
 
 _**Get into a group of four! 🔢**_
 
