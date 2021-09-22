@@ -1,6 +1,6 @@
-# Get Going with Git!
+# Get Going with Git! And create merge conflicts!
 
-This is a quick course to start using version control with git. 
+This is a quick course to start using version control with git.
 
 ### _What is version control?_
 
