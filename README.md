@@ -4,7 +4,7 @@ This is a quick course to start using version control with git.
 
 ### _What is version control?_
 
-Version control, also known as a revision control, is a software program that allows us to track distributed changes to information/code over time. Git is an example of a version control implementation. Changes are "distributed" when they are coming from many different sources. For example, if a team of developers is all making changes to the same code, or if you have different branch of evolution that have resulted in changes to a single original genome. We can use version control to "revert" or rewind back to an older version of the information/code, "merge" an updated version into our copy, "push" our changes to a "master" copy, and do much more. Let's get set up to travel through time and alternative versions of reality via version control! 🚀
+Version control, also known as revision control, is a software program that allows us to track distributed changes to information/code over time. Git is an example of a version control implementation. Changes are "distributed" when they come from many different sources. For instance, if a team of developers is all making changes to the same code, or if you have a different branch of evolution that has resulted in changes to a single original genome. We can use version control to "revert" or rewind back to an older version of the information/code, "merge" an updated version into our copy, "push" our changes to a "master" copy and do much more. Let's get set up to travel through time and alternative versions of reality via version control! 🚀
 
 ### 1. Getting Started
 
