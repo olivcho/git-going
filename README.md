@@ -12,13 +12,21 @@ First, create an account on github! This site! ^ :octocat:
 
 _PSA: You don't need to use your school username_
 
-
 _**Now open up your terminal! 🤠**_
 
 1. Follow these instructions to check if you have `git` installed on your machine and install it if you don't: https://github.com/git-guides/install-git
 2. Use `cd` to navigate to the directory that you want to store your code in. (I like to have a `~/Development` folder, for example)
 3. Download this code repository using `git clone git@github.com:morgansierrasnyder/git-going.git`
 4. Use `cd git-going` to navigate into the directory that now contains the repository
+
+**Note:** if you get an error that says, "Support for password authentication was removed on August 13, 2021", you may need to use an SSH key for authentication. Here are the steps for that:
+1. Create an SSH key by typing ssh-keygen into Terminal. I recommend saving it in the default location, `~/.ssh/id_rsa` A passphrase is optional, but recommended.
+2. Go to the directory where you saved your SSH key; `cd ~/.ssh` is the default 
+3. Show the contents of your key `cat id_rsa.pub`
+4. Copy this entire string, including the "ssh-rsa" at the beginning and your email address or username at the end.
+5. Go to Github. In the upper right corner, click on the down arrow next to your user icon. Click Settings. Go to SSH and GPG keys. Click "New SSH key" and paste the contents of your public key, along with a title of your choice.
+6. You may need to wait ~5 minutes for your key to get propagated to all the servers; then you should be able to access the repositories you have access to.
+
 
 You're now ready to make new versions of this code!
 
